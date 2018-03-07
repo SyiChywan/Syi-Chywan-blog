@@ -5,7 +5,7 @@ _leetCode学习之算法_
 -
 
  1. [leetCode学习第一题：两数之和](https://github.com/zxq11/Syi-Chywan-blog/issues/4) 
- 
+ 2. [leetCode学习第二题：从排序数组中删除重复项](https://github.com/zxq11/Syi-Chywan-blog/issues/6) 
  
 
 _leetCode学习之shell_
