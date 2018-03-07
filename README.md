@@ -5,5 +5,5 @@
 
  2. [戒烟记录，希望自己可以成为一个不被烟草奴役的人](https://github.com/zxq11/Syi-Chywan-blog/issues/2)
 
- 3. [leetCode学习](https://github.com/zxq11/Syi-Chywan-blog/issues/4) 
+ 3. [leetCode学习第一题：两数之和](https://github.com/zxq11/Syi-Chywan-blog/issues/4) 
 
