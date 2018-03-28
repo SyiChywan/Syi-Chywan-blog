@@ -12,8 +12,12 @@ _leetCode学习之shell_
 -
  1. [leetCode学习第一题：第十行](https://github.com/zxq11/Syi-Chywan-blog/issues/5) 
  
- 
- 
+
+
+_LeetCode学习之数据库
+-
+
+ 1.[LeetCode学习第一题：交换工资](https://github.com/zxq11/Syi-Chywan-blog/issues/7)
  
  
  
