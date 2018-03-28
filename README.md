@@ -14,7 +14,7 @@ _leetCode学习之shell_
  
 
 
-_leetCode学习之数据库
+_leetCode学习之数据库_
 -
 
  1. [LeetCode学习第一题：交换工资](https://github.com/zxq11/Syi-Chywan-blog/issues/7)
