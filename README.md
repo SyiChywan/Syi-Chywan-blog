@@ -20,6 +20,7 @@ _leetCode学习之数据库_
  1. [LeetCode学习第一题：交换工资](https://github.com/zxq11/Syi-Chywan-blog/issues/7)
  
  2. [LeetCode学习第二题：比经理工资高的员工](https://github.com/zxq11/Syi-Chywan-blog/issues/8)
+ 3. [LeetCode学习第三题：分数排行](https://github.com/zxq11/Syi-Chywan-blog/issues/9)
  
  
  
